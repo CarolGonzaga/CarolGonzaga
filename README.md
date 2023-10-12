@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=1&color=E94D5F&center=true&vCenter=true&repeat=false&random=false&lines=Ol%C3%A1!+Eu+sou+a+Carol+Gonzaga" alt="Typing SVG" /></br>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&pause=1000&color=E94D5F&center=true&vCenter=true&random=false&lines=Aspirante+Dev+Full+Stack;'Code'+%2B+'Play'+%2B+'Travel'+%3D%3D+'Life'" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&lines=Aspirante+Dev+Full+Stack;'Code'+%2B+'Play'+%2B+'Travel'+%3D%3D+'Life'" alt="Typing SVG" />  
 </p>
 
 <p align="center">
