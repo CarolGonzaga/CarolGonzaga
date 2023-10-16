@@ -44,6 +44,8 @@
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" />
+  </p>
+  <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=000&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" />
   </p>
   <p>
@@ -60,6 +62,8 @@
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&center=true&vCenter=true&repeat=false&random=false&lines=Soft+Skills:" alt="Typing SVG" />
+  </p>
+  <p>
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=000&center=true&vCenter=true&repeat=false&random=false&lines=Soft+Skills:" alt="Typing SVG" />
   </p>
   <p>
