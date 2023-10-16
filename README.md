@@ -33,8 +33,8 @@
 <br/>
 
 <p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarolGonzaga&show_icons=true&count_private=true&hide_border=true&title_color=E94D5F&icon_color=E94D5F&text_color=c9d1d9&bg_color=0d1117" alt="Carol Gonzaga GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarolGonzaga&bg_color=0d1117&hide_border=true&title_color=E94D5F&text_color=FFF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarolGonzaga&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=E94D5F&text_color=c9d1d9&bg_color=0d1117" alt="Carol Gonzaga GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarolGonzaga&bg_color=0d1117&hide_border=true&title_color=FFF&text_color=FFF" />
 </p>
 
 <br/>
@@ -42,7 +42,9 @@
   
 <div align="center">
 
-  <h3><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=E94D5F&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" /></h3>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" />
+  </p>
   <p>
     <img alt="HTML" height='32px' src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F">
     <img alt="CSS" height='32px' src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F">
@@ -55,7 +57,9 @@
   <br/>
   <br/>
 
-  <h3><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=E94D5F&center=true&vCenter=true&repeat=false&random=false&lines=Soft+Skills:" alt="Typing SVG" /></h3>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&center=true&vCenter=true&repeat=false&random=false&lines=Soft+Skills:" alt="Typing SVG" />
+  </p>
   <p>
     <img alt="Communication" title="Communication" src="https://img.icons8.com/material-outlined/32/FF0018/communication.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
