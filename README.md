@@ -33,8 +33,8 @@
 <br/>
 
 <p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarolGonzaga&show_icons=true&count_private=true&hide_border=true&title_color=E94D5F&icon_color=E94D5F&text_color=E94D5F&bg_color=0d1117" alt="Carol Gonzaga GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarolGonzaga&bg_color=0d1117&hide_border=true&title_color=E94D5F&text_color=E94D5F" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarolGonzaga&show_icons=true&count_private=true&hide_border=true&title_color=E94D5F&icon_color=E94D5F&text_color=FFF&bg_color=0d1117" alt="Carol Gonzaga GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarolGonzaga&bg_color=0d1117&hide_border=true&title_color=E94D5F&text_color=FFF" />
 </p>
 
 <br/>
