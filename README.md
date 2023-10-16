@@ -44,6 +44,7 @@
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=000&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" />
   </p>
   <p>
     <img alt="HTML" height='32px' src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F">
@@ -59,6 +60,7 @@
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&center=true&vCenter=true&repeat=false&random=false&lines=Soft+Skills:" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=000&center=true&vCenter=true&repeat=false&random=false&lines=Soft+Skills:" alt="Typing SVG" />
   </p>
   <p>
     <img alt="Communication" title="Communication" src="https://img.icons8.com/material-outlined/32/FF0018/communication.png"/>
