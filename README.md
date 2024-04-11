@@ -43,15 +43,18 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&background=0d1117&center=true&vCenter=true&repeat=false&random=false&lines=Languages+and+Tools:" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&color=FFF&background=0d1117&center=true&vCenter=true&repeat=false&random=false&lines=Technologies+and+Tools:" alt="Typing SVG" />
   </p>
   <p>
     <img alt="HTML" height='32px' src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F">
     <img alt="CSS" height='32px' src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F">
     <img alt="JavaScript" height='32px' src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=E94D5F">
     <img alt="React" height='32px' src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=E94D5F">
+    <img alt="Vue.js" height='32px' src="https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=E94D5F"/>
+    <img alt="TypeScript" height='32px' src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=E94D5F"/>
     <img alt="Figma" height='32px' src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F"/>
     <img alt="Git" height='32px' src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F"/>
+    <img alt="Vercel" height='32px' src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=E94D5F"/>
   </p>
 
   <br/>
