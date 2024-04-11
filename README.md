@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anacarolgonzaga">
+  <a href="https://www.linkedin.com/in/anacquesta/">
     <img alt="Linkedin" src="https://img.icons8.com/material-outlined/32/FF0018/linkedin.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
