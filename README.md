@@ -52,6 +52,12 @@
     <img alt="React" height='32px' src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=E94D5F">
     <img alt="Vue.js" height='32px' src="https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=E94D5F"/>
     <img alt="TypeScript" height='32px' src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=E94D5F"/>
+    <br/>
+    <img alt="Node.js" height='32px' src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=E94D5F">
+    <img alt="API REST" height='32px' src="https://img.shields.io/badge/API_REST-000?style=for-the-badge&logo=api&logoColor=E94D5F">
+    <img alt="MongoDB" height='32px' src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=E94D5F">
+    <img alt="Express.js" height='32px' src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=E94D5F">
+    <br/>
     <img alt="Figma" height='32px' src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F"/>
     <img alt="Git" height='32px' src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F"/>
     <img alt="Vercel" height='32px' src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=E94D5F"/>
